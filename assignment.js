@@ -127,7 +127,7 @@
  }
  //function end
 
- var friendsName = ["Rafiqul", "Salam", "Kalam", "Anish"];
+ var friendsName = ["Salam", "Kalam", "Safiqul", "Barkat"];
 
  console.log(megaFriend(friendsName));
 
